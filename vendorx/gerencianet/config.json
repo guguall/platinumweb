@@ -1,0 +1,7 @@
+{
+    "client_id": "informe seu client id do gerencianet",
+    "client_secret": "informe seu secret id gerencianet",
+    "sandbox": true,
+    "debug": false
+}
+
