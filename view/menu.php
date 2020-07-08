@@ -12,7 +12,7 @@ inicializa_sessao('600', 2);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">PlatinumWeb</a>
+        <a class="navbar-brand" href="index.html">PlatinumWeb--</a>
     </div>
     <!-- /.navbar-header -->
 
